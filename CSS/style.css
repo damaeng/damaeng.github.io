@@ -1,0 +1,28 @@
+.hidden {
+  display : none
+}
+
+.clock {
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  color : gray;
+
+}
+
+.logIn {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.quote {
+  font-style: bold;
+  font-size: small;
+}
+
+.biggg {
+  font-size: 54;
+  size: 100;
+}
+
